@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/8e0f82cc-dc95-4a94-a60a-c850a048f154)
+![Image](https://github.com/user-attachments/assets/56481494-20d0-4b95-bf89-fb91e88d4753)
 
 # Terraform - Route 53 + ACM + ALB 을 통한 Domain 연결 테스트 - ALB 복구 시나리오
 
