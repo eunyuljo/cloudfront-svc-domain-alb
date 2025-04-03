@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/8e0f82cc-dc95-4a94-a60a-c850a048f154)
 
-# 🌐 Terraform - Route 53 + ACM + ALB 자동화 인프라
+# Terraform - Route 53 + ACM + ALB 을 통한 Domain 연결 테스트 - ALB 복구 시나리오
 
 이 프로젝트는 **Terraform**을 사용해 다음을 자동화합니다:
 
