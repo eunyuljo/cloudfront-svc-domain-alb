@@ -58,6 +58,7 @@ resource "aws_s3_bucket_policy" "oai_bucket_policy" {
 }
 
 
+
 // 2. OAC 접근 방식 (권장)
 resource "aws_cloudfront_origin_access_control" "oac" {
   name                              = "example-oac"
