@@ -27,3 +27,4 @@ terraform.rc
 
 # S3 Contents
 cf-test-files/
+!cf-test-files/.gitkeep
